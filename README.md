@@ -1,5 +1,5 @@
 
-# <p align="center"> Hello, I'm Hemant thapa aka Harry(He/Him)<img width="100" align='left' src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/beaming-face-with-smiling-eyes_1f601.png"> </p> 
+# <p align="center"> Hello, I'm Hemant Thapa aka Harry(He/Him)<img width="100" align='left' src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/beaming-face-with-smiling-eyes_1f601.png"> </p> 
 
 ### <p align="center"> Mechnical Engineer, Developer, and Data analyst. </p>
 
