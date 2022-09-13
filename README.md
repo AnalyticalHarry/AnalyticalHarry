@@ -34,7 +34,7 @@ Web scraping, Computer Vision, Data Mining, Data cleaning, Data visulisation, Fi
 
 <!--START_SECTION:waka-->
 ```text
-## 🛠️Tools 
+🛠️Tools 
 VS CODE, Jupyter Notebook, MS Excel, MS Power BI, MS Visio, Google Sheet, PTC Creo parametric, SolidWorks, ANSYS and Photshop.
 ```
 <!--END_SECTION:waka-->
