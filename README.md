@@ -12,10 +12,10 @@ I' m currently located in Glasgow, Scotland and passionate about developing inno
 <br />
 
 ### #Blairdrummond 2019
+---
+# <p aligh="center"> [YouTube Channel Subscribers]</p>
 
-<p aligh="center">[YouTube Channel Subscribers]</p>
-
-[![Website](https://img.shields.io/website?label=Harry'sWorld&style=for-the-badge&url=https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)](https://https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ) [![Twitter Follow](https://img.shields.io/twitter/follow/Whoisthapa?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/whoisthapa) [![Linkedin](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https://www.linkedin.com/in/thapahemant/ "Linkein&quot;&quot;")](https://www.linkedin.com/in/thapahemant/)
+[![Website](https://img.shields.io/website?label=Youtube&style=for-the-badge&url=https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)](https://https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)      [![Twitter Follow](https://img.shields.io/twitter/follow/Whoisthapa?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/whoisthapa)      [![Linkedin](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https://www.linkedin.com/in/thapahemant/ "Linkein&quot;&quot;")](https://www.linkedin.com/in/thapahemant/)
 
 
 <br />
