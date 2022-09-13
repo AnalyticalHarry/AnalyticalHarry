@@ -1,6 +1,6 @@
 # <p align="center"> Hello, I'm Hemant thapa (aka Harry)👋 </p>
 ### <p align="center"> Mechnical Engineer, Developer and Data analyst. </p>
-![Harry's World](https://raw.githubusercontent.com/harryworlds/README.md/main/mech_can_code.png)
+![Harry's World](https://raw.githubusercontent.com/harryworlds/harryworlds/main/mech_can_code.png)
 
 - I' m currently located in Glasgow, Scotland and learning everything
 - Looking for collaborate with other content creators
