@@ -1,5 +1,6 @@
 
-# <p align="center"> Hello, I'm Hemant thapa aka Harry(He/Him)👋 </p>
+# <p align="center"> Hello, I'm Hemant thapa aka Harry(He/Him)<img width="100" align='left' src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/beaming-face-with-smiling-eyes_1f601.png"> </p> 
+
 ### <p align="center"> Mechnical Engineer, Developer, and Data analyst. </p>
 
 ![Harry's World](https://raw.githubusercontent.com/harryworlds/harryworlds/main/mech_can_code.png)
@@ -49,6 +50,6 @@ VS CODE, Jupyter Notebook, MS Excel, MS Power BI, MS Visio, Google Sheet, PTC Cr
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/thapahemant/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/thapahemant/#gh-dark-mode-only)
 &nbsp;&nbsp;
-<img width="100" align='left' src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/beaming-face-with-smiling-eyes_1f601.png">
+<img width="150" align='left' src="https://i.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.webp">
 
-# <p align="center">Talks about #engineering, #marinescience, #sustanability, #mechanicaldesign, and #artificialintelligence </P>
+# <p align="center">Talks about #engineering, #marinescience, #sustanability, #mechanicaldesign, and #artificialintelligence 
