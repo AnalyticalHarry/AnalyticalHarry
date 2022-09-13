@@ -5,16 +5,13 @@
 ---
 
 <img width="250" align='left' src="https://media-exp1.licdn.com/dms/image/C4E2DAQEaGRbDuG8JuQ/profile-treasury-image-shrink_800_800/0/1637807125329?e=1663682400&v=beta&t=2WYnjRddtbAENNIstxF4Y_U8jZIHO1XvY_OTzacVC4c">
-
-- I' m currently located in Glasgow, Scotland and learning everything
-- Looking for collaborate with other content creators
-- 2022-2023 objectives is to learn more about Innovation and technology
-- Hobbies: I love to cooking, reading book, drinking coffee and playing Guitar
-- Long-term goal is to learn everything and contribute value to society.
-
-<img width="250" align='right' src="https://media-exp1.licdn.com/dms/image/C4E2DAQFpRQ73pFCCYw/profile-treasury-image-shrink_800_800/0/1637808096535?e=1663682400&v=beta&t=V-9Tx9qUv6obeDetLjl3uwLjJVaRKB8rKkMnYh3t2Hw">
+  
+<img width="200" align='right' src="https://media-exp1.licdn.com/dms/image/C4E2DAQFpRQ73pFCCYw/profile-treasury-image-shrink_800_800/0/1637808096535?e=1663682400&v=beta&t=V-9Tx9qUv6obeDetLjl3uwLjJVaRKB8rKkMnYh3t2Hw">
+Mech Engineer can code, and passionate about developing innovative solutions to engineering problems. I am continuously seeking new challenges, always trying to think out of the box, and doing open source projects as a python developer. I' m currently located in Glasgow, Scotland and learning everyday. I'm looking for collaborate with other content creators, my long-term goal is to contribute value to our society
 ---
 
+Hobbies: I love to Cooking, Reading book, Drinking coffee, Photography and Playing Guitar.
+---
 <br />
 [YouTube Channel Subscribers]
 
