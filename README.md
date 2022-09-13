@@ -41,7 +41,7 @@ VS CODE, Jupyter Notebook, MS Excel, MS Power BI, MS Visio, Google Sheet, PTC Cr
 <!--END_SECTION:waka-->
 ---
 
-<img width="150" align='left' src="https://i.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.webp">
+<img width="100" align='left' src="https://i.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.webp">
 
 # <p align="center">Talks about #engineering, #marinescience, #sustanability, #mechanicaldesign, and #artificialintelligence 
 
