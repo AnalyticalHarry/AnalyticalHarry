@@ -1,19 +1,19 @@
 
 # <p align="center"> Hello, I'm Hemant thapa aka Harry(He/Him)👋 </p>
 ### <p align="center"> Mechnical Engineer, Developer, and Data analyst. </p>
+
 ![Harry's World](https://raw.githubusercontent.com/harryworlds/harryworlds/main/mech_can_code.png)
 ---
 
 <img width="250" align='left' src="https://media-exp1.licdn.com/dms/image/C4E2DAQEaGRbDuG8JuQ/profile-treasury-image-shrink_800_800/0/1637807125329?e=1663682400&v=beta&t=2WYnjRddtbAENNIstxF4Y_U8jZIHO1XvY_OTzacVC4c">
   
 <img width="200" align='right' src="https://media-exp1.licdn.com/dms/image/C4E2DAQFpRQ73pFCCYw/profile-treasury-image-shrink_800_800/0/1637808096535?e=1663682400&v=beta&t=V-9Tx9qUv6obeDetLjl3uwLjJVaRKB8rKkMnYh3t2Hw">
-Mech Engineer can code, and passionate about developing innovative solutions to engineering problems. I am continuously seeking new challenges, always trying to think out of the box, and doing open source projects as a python developer. I' m currently located in Glasgow, Scotland and learning everyday. I'm looking for collaborate with other content creators, my long-term goal is to contribute value to our society
----
-
-Hobbies: I love to Cooking, Reading book, Drinking coffee, Photography and Playing Guitar.
----
+Mech Engineer can code, I' m currently located in Glasgow, Scotland and passionate about developing innovative solutions to engineering problems. continuously seeking new challenges, always trying to think out of the box, and doing open-source projects as a python developer. I'm looking for collaborate with content creators, my long-term goal is to contribute value to our human society and environment. 
 <br />
-[YouTube Channel Subscribers]
+
+#Blairdrummond 2019
+
+<p aligh="center">[YouTube Channel Subscribers]</p>
 
 [![Website](https://img.shields.io/website?label=Harry'sWorld&style=for-the-badge&url=https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)](https://https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ) [![Twitter Follow](https://img.shields.io/twitter/follow/Whoisthapa?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/whoisthapa) [![Linkedin](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https://www.linkedin.com/in/thapahemant/ "Linkein&quot;&quot;")](https://www.linkedin.com/in/thapahemant/)
 
@@ -50,3 +50,4 @@ VS CODE, Jupyter Notebook, MS Excel, MS Power BI, MS Visio, Google Sheet, PTC Cr
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/thapahemant/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
+# <p align="center">Talks about #engineering, #marinescience, #sustanability, #mechanicaldesign, and #artificialintelligence </P>
