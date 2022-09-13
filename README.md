@@ -40,6 +40,12 @@ VS CODE, Jupyter Notebook, MS Excel, MS Power BI, MS Visio, Google Sheet, PTC Cr
 ```
 <!--END_SECTION:waka-->
 ---
+
+<img width="150" align='left' src="https://i.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.webp">
+
+# <p align="center">Talks about #engineering, #marinescience, #sustanability, #mechanicaldesign, and #artificialintelligence 
+
+---
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ#gh-dark-mode-only)
@@ -50,6 +56,3 @@ VS CODE, Jupyter Notebook, MS Excel, MS Power BI, MS Visio, Google Sheet, PTC Cr
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/thapahemant/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/thapahemant/#gh-dark-mode-only)
 &nbsp;&nbsp;
-<img width="150" align='left' src="https://i.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.webp">
-
-# <p align="center">Talks about #engineering, #marinescience, #sustanability, #mechanicaldesign, and #artificialintelligence 
