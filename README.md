@@ -15,7 +15,7 @@ I' m currently located in Glasgow, Scotland and passionate about developing inno
 ---
 # <p aligh="center"> [YouTube Channel Subscribers]</p>
 
-[![Website](https://img.shields.io/website?label=Youtube&style=for-the-badge&url=https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)](https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)      [![Twitter Follow](https://img.shields.io/twitter/follow/Whoisthapa?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/whoisthapa)      [![Linkedin](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https://www.linkedin.com/thapahemant/)](https://www.linkedin.com/thapahemant/)
+[![Website](https://img.shields.io/website?label=Youtube&style=for-the-badge&url=https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)](https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)      [![Twitter Follow](https://img.shields.io/twitter/follow/Whoisthapa?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/whoisthapa)      [![Linkedin](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https://www.linkedin.com/in/thapahemant/)](https://www.linkedin.com/in/thapahemant/)
 
 
 <br />
