@@ -59,3 +59,6 @@ VS CODE, Jupyter Notebook, MS Excel, Excel Pivot table, MS Power BI, Tableau, MS
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/thapahemant/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/thapahemant/#gh-dark-mode-only)
 &nbsp;&nbsp;
+  [![website](.https://img.icons8.com/ios/512/parse-from-clipboard.png)](https://github.com/harryworlds/harryworlds/blob/main/Hemant_thapa_resume.pdf/#gh-light-mode-only)
+[![website](./https://img.icons8.com/ios/512/parse-from-clipboard.png)](https://github.com/harryworlds/harryworlds/blob/main/Hemant_thapa_resume.pdf#gh-dark-mode-only)
+&nbsp;&nbsp;
