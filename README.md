@@ -30,14 +30,16 @@ Computational Fluid Dynamic (CFD) Simulation, Fluid flow Analysis, Thermal Analy
 Design and Prototype Testing, and environmental impact Assessments. 
 
 ## 📊 Technical Skills
-Web scraping, Computer Vision, Data Mining, Data cleaning, Data visulisation, Financial Analysis (Technical, and Fundamental), Break Even Analysis, Sales Analysis, 
-Customer Segmentation Strategy, Creative writing and passonate about Python library.
+Statical analysis and computing, Python programming, Engineering Design and research, Data mining, Data Visualisation, and Machine Learning.
+
+## 📊 Asset Management skills: 
+Technical Analysis, Fundamental Analysis, Break-Even Analysis, Portfolio construction and management, Risk Management, Valuation and Risk Model, Quantitative analysis (Advance Statics), Trend Analysis, Sales projection, Semantic analysis and Start-up valuation. 
 <br />
 
 <!--START_SECTION:waka-->
 ```text
 🛠️Tools 
-VS CODE, Jupyter Notebook, MS Excel, MS Power BI, MS Visio, Google Sheet, PTC Creo parametric, SolidWorks, ANSYS and Photshop.
+VS CODE, Jupyter Notebook, MS Excel, Excel Pivot table, MS Power BI, Tableau, MS Visio, Google Sheet, PTC Creo parametric, SolidWorks, ANSYS and Photshop.
 ```
 <!--END_SECTION:waka-->
 ---
