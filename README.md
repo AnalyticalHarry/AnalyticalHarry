@@ -1,5 +1,9 @@
 
-# <p align="center"> Hello, I'm Hemant Thapa aka Harry(He/Him)<img width="100" align='left' src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/beaming-face-with-smiling-eyes_1f601.png"> </p> 
+# <p align="center"> "Life is an equation and incapable of solution, but contain known factor, loyalty, and firm determination."
+
+Mechanical Engineer accredited by the Institution of Mechanical Engineers (IMechE), and passionate about developing innovative solutions for engineering problems. 
+
+I am continuously seeking new challenges and always trying to think out of the box, and contributing on open source data sciences projects. My vision is to bring positive change to our engineering culture, and bring people together. <img width="100" align='left' src="https://emojipedia-us.s3.amazonaws.com/source/microsoft-teams/337/beaming-face-with-smiling-eyes_1f601.png"> </p> 
 
 ### <p align="center"> Mechnical Engineer, Developer, and Data analyst. </p>
 
