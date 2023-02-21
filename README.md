@@ -1,7 +1,7 @@
 
 [![Website](https://img.shields.io/website?label=Youtube&style=for-the-badge&url=https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)](https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)   [![Linkedin](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https://www.linkedin.com/in/thapahemant/)](https://www.linkedin.com/in/thapahemant/)
 
-<p align="center"> "Data is like a puzzle, it may seem complex at first, but with the right tools, techniques, and determination, it can be deciphered and transformed into valuable insights."
+<p align="leftr"> "Data is like a puzzle, it may seem complex at first, but with the right tools, techniques, and determination, it can be deciphered and transformed into valuable insights."
 
 Enthusiastic and results-driven data analyst with a background in mechanical engineering accredited by the Institution of Mechanical Engineers (IMechE) and data science. 
 
