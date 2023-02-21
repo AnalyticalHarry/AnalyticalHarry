@@ -1,7 +1,7 @@
 
 [![Website](https://img.shields.io/website?label=Youtube&style=for-the-badge&url=https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)](https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)   [![Linkedin](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https://www.linkedin.com/in/thapahemant/)](https://www.linkedin.com/in/thapahemant/)
 
-# <p align="center"> "Life is a journey with its own set of variables, but the constant factors of loyalty and steadfast determination will always lead to success.""
+<p align="center"> "Data is like a puzzle, it may seem complex at first, but with the right tools, techniques, and determination, it can be deciphered and transformed into valuable insights."
 
 Mechanical Engineer accredited by the Institution of Mechanical Engineers (IMechE), and passionate about developing innovative solutions for engineering problems. 
 
