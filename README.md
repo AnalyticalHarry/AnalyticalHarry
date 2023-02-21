@@ -3,11 +3,10 @@
 
 <p align="center"> "Data is like a puzzle, it may seem complex at first, but with the right tools, techniques, and determination, it can be deciphered and transformed into valuable insights."
 
-Mechanical Engineer accredited by the Institution of Mechanical Engineers (IMechE), and passionate about developing innovative solutions for engineering problems. 
+Enthusiastic and results-driven data analyst with a background in mechanical engineering accredited by the Institution of Mechanical Engineers (IMechE) and data science. 
 
-I am continuously seeking new challenges and always trying to think out of the box, and contributing on open source data sciences projects. My vision is to bring positive change to our engineering culture, and bring people together. <img width="100" align='left' 
+As a passionate engineer, I am dedicated to finding innovative solutions to complex problems. I am always seeking new challenges and strive to think creatively, contributing to open-source data science projects along the way. My goal is to make a positive impact on the engineering community and bring people together through my work. <img width="100" align='left' 
 
-### <p align="center"> Enthusiastic and results-driven data analyst with a background in mechanical engineering and data science.</p>
 
 ![Harry's World](https://raw.githubusercontent.com/harryworlds/harryworlds/main/mech_can_code.png)
 ---
