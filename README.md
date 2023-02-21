@@ -1,13 +1,13 @@
 
 [![Website](https://img.shields.io/website?label=Youtube&style=for-the-badge&url=https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)](https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)   [![Linkedin](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https://www.linkedin.com/in/thapahemant/)](https://www.linkedin.com/in/thapahemant/)
 
-# <p align="center"> "Life is an equation and incapable of solution, but contain known factor, loyalty, and firm determination."
+# <p align="center"> "Life is a journey with its own set of variables, but the constant factors of loyalty and steadfast determination will always lead to success.""
 
 Mechanical Engineer accredited by the Institution of Mechanical Engineers (IMechE), and passionate about developing innovative solutions for engineering problems. 
 
 I am continuously seeking new challenges and always trying to think out of the box, and contributing on open source data sciences projects. My vision is to bring positive change to our engineering culture, and bring people together. <img width="100" align='left' 
 
-### <p align="center"> Enthusiastic and result-driven Data Analyst with a background in Mechanical Engineering and Data Science </p>
+### <p align="center"> Enthusiastic and results-driven data analyst with a background in mechanical engineering and data science.</p>
 
 ![Harry's World](https://raw.githubusercontent.com/harryworlds/harryworlds/main/mech_can_code.png)
 ---
