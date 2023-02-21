@@ -7,7 +7,8 @@ Mechanical Engineer accredited by the Institution of Mechanical Engineers (IMech
 
 I am continuously seeking new challenges and always trying to think out of the box, and contributing on open source data sciences projects. My vision is to bring positive change to our engineering culture, and bring people together. <img width="100" align='left' 
 
-### <p align="center"> Mechnical Engineer and Data Analyst. </p>
+### <p align="center"> Enthusiastic and result-driven Data Analyst with a background in Mechanical
+Engineering and Data Science </p>
 
 ![Harry's World](https://raw.githubusercontent.com/harryworlds/harryworlds/main/mech_can_code.png)
 ---
