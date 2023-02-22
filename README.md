@@ -5,6 +5,7 @@
 ![image](https://user-images.githubusercontent.com/104982185/220497193-539b91ce-78f8-461a-9fa2-506aa131a0df.png)
 
 Enthusiastic and results-driven data analyst with a background in mechanical engineering accredited by the Institution of Mechanical Engineers (IMechE) and data science.
+  
 As a passionate engineer, I am dedicated to finding innovative solutions to complex problems. I am always seeking new challenges and strive to think creatively, contributing to open-source data science projects along the way. My goal is to make a positive impact on the engineering community and bring people together through my work. 
   
 
