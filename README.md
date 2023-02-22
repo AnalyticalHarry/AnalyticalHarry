@@ -35,10 +35,10 @@ Computational Fluid Dynamic (CFD) Simulation, Fluid flow Analysis, Thermal Analy
 Design and Prototype Testing, and environmental impact Assessments. 
 
 ## 📊 Technical Skills
-Statical analysis and computing, Python programming, Engineering Design and research, Data mining, Data Visualisation, and Machine Learning.
+Statical analysis and computing, Python, SQL, Engineering Design and research, Data mining, Data Visualisation ( Seaborn & Matplotlib), and Machine Learning (Random Forest, Naive Bayes, SVM, Gradient Boosting, Neural Networks, K-means clustering), Business intelligence (Microsoft Power BI & Tableau).
 
 ## 📊 Asset Management skills: 
-Technical Analysis, Fundamental Analysis, Break-Even Analysis, Portfolio construction and management, Risk Management, Valuation and Risk Model, Quantitative analysis (Advance Statics), Trend Analysis, Sales projection, Semantic analysis and Start-up valuation. 
+Technical Analysis & Fundamental Analysis (Yahoo Finance API), Break-Even Analysis, Portfolio construction and management, Risk Management, Valuation and Risk Model, Quantitative analysis (Advance Statics), Trend Analysis (Linear Regression Model), Sales projection (Multi-linear regression), Semantic analysis (NLP) and Start-up valuation. 
 <br />
 
 <!--START_SECTION:waka-->
