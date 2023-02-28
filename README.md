@@ -9,7 +9,7 @@ Enthusiastic and results-driven data analyst with a background in mechanical eng
 As a passionate engineer, I am dedicated to finding innovative solutions to complex problems. I am always seeking new challenges and strive to think creatively, contributing to open-source data science projects along the way. My goal is to make a positive impact on the engineering community and bring people together through my work. 
   
 
-![Harry's World](https://raw.githubusercontent.com/harryworlds/harryworlds/main/mech_can_code.png)
+![Harry's World](https://raw.githubusercontent.com/harryworlds/harryworlds/main/glasgow.jpg)
 ---
 
 <img width="250" align='left' src="(https://images.wallpapersden.com/image/download/united-kingdom-scotland-glasgow_Zm1ma2qUmZqaraWkpJRobG1mrWdpaWk.jpg)">
