@@ -12,7 +12,7 @@ As a passionate engineer, I am dedicated to finding innovative solutions to comp
 ![Harry's World](https://raw.githubusercontent.com/harryworlds/harryworlds/main/mech_can_code.png)
 ---
 
-<img width="250" align='left' src="https://raw.githubusercontent.com/harryworlds/harryworlds/main/park.jpg">
+<img width="250" align='left' src="[https://raw.githubusercontent.com/harryworlds/harryworlds/main/park.jpg](https://images.wallpapersden.com/image/download/united-kingdom-scotland-glasgow_Zm1ma2qUmZqaraWkpJRobG1mrWdpaWk.jpg)">
   
 <img width="200" align='right' src="https://raw.githubusercontent.com/harryworlds/harryworlds/main/glasgow.png">
 I' m currently located in Glasgow, Scotland and passionate about developing innovative solutions to engineering problems. continuously seeking new challenges, always trying to think out of the box, and doing open-source projects as a python developer. my long-term goal is to contribute value to our human society and environment. 
