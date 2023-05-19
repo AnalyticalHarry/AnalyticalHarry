@@ -28,19 +28,24 @@ I' m currently located in Glasgow and passionate about developing innovative sol
 
 🤝 Collaboration Requests: analyticalharry@gmail.com
 
-🎥 ```
+🎥 
+```text 
 youtube.com/@AnalyticalHarry/videos
 ```
-🎵 ```text 
+🎵 
+```text 
 tiktok.com/@analyticalharry
 ```
-🚀 ```text 
+🚀 
+```text 
 github.com/AnalyticalHarry
 ```
-💻 ```text 
+💻
+```text 
 harryworlds.github.io/
 ```
-⚙️  ```text
+⚙️ 
+```text
 pypi.org/project/nalyst/
 ```
 🔑 Let's unlock the potential of data together and create a better future through meaningful insights! Join me on this exciting journey of data exploration and analysis. Together, we can make a difference. 🌟📈
