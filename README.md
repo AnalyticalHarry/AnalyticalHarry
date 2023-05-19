@@ -3,7 +3,7 @@ Analytical Harry
 ---
 
 [![Website](https://img.shields.io/website?label=Youtube&style=for-the-badge&url=https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)](https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)   [![Linkedin](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https://www.linkedin.com/in/thapahemant/)](https://www.linkedin.com/in/thapahemant/)
-[![TikTok](https://img.shields.io/badge/TikTok-%23FF0000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@analyticalharry) [![Twitter Follow](https://img.shields.io/twitter/follow/@AnalyticalHarry?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AnalyticalHarry)     
+[![TikTok](https://img.shields.io/badge/AnalyticalHarry-%23FF0000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@analyticalharry) [![Twitter Follow](https://img.shields.io/twitter/follow/AnalyticalHarry?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AnalyticalHarry)     
 
 
 <p align="leftr"> "Data is like a puzzle, it may seem complex at first, but with the right tools, techniques, and determination, it can be deciphered and transformed into valuable insights."
