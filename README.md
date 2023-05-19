@@ -43,18 +43,24 @@ I' m currently located in Glasgow and passionate about developing innovative sol
 <br />
 
 ---
+## 📊 Technical Skills
+Scientific Research, Programming, Big Data, Data mining, Data Cleaning and Preprocessing, Data Visualisation, Statical analysis, Advanced Mathematics, Monte Carlo Simulation, Exploratory Data Analysis, Feature Engineering, Model Selection and Evaluation, Hyperparameter Tuning, Algorithm Building, Logistic Regression, Linear Regression, Decision Trees, Random Forest, Support Vector machines, Naïve Bayes, Neural Networks, Gradient Boosting, Hierarchical Clustering, Density-Based Clustering (DBSCAN), Principal Component Analysis (PCA), Singular Value Decomposition (SVD), Autoencoders, Hypothesis testing, Building Machine Learning Libraries, Time Series Analysis, Dashboard & KPI and Business intelligence (Microsoft Power BI & Tableau)
+
+## 📊 Asset Management skills
+Technical Analysis & Fundamental Analysis (Yahoo Finance API), Break-Even Analysis, Portfolio construction and management, Risk Management, Valuation and Risk Model, Quantitative analysis (Advance Statics), Trend Analysis (Linear Regression Model), Sales projection (Multi-linear regression), Semantic analysis (NLP) and Start-up valuation. 
 
 ## 📊 Mech Skills
 Engineering drawing Knowledge, 2D Surface modeling, 3D Solid Modeling, Design Analysis, Finite Element Analysis (FEA), 
 Materially nonlinear Analysis, Static Structure Analysis, Stress Analysis & Safety factor, Fatigue Analysis, 
 Computational Fluid Dynamic (CFD) Simulation, Fluid flow Analysis, Thermal Analysis, Composite Structure, 
-Design and Prototype Testing, and environmental impact Assessments. 
+Design and Prototype Testing, and environmental impact Assessments.
 
-## 📊 Technical Skills
-Statical analysis and computing, Python, SQL, Engineering Design and research, Data mining, Data Visualisation ( Seaborn & Matplotlib), and Machine Learning (Random Forest, Naive Bayes, SVM, Gradient Boosting, Neural Networks, K-means clustering), Business intelligence (Microsoft Power BI & Tableau).
+## 📊 Software and Expertise
+Python, JavaScript, HTML, Microsoft SQL and SQL lite, Power BI, Tableau, Matplotlib, Seaborn, Numpy, Pandas, Polar, Scikit-learn, Keras, Tensorflow, Jupyter Notebook, Visual Studio Code, Google Colab, MS Word, MS Excel, MS Visio, MS PowerPoint, MS Team, Google Sheet, and Adobe Photoshop.
 
-## 📊 Asset Management skills: 
-Technical Analysis & Fundamental Analysis (Yahoo Finance API), Break-Even Analysis, Portfolio construction and management, Risk Management, Valuation and Risk Model, Quantitative analysis (Advance Statics), Trend Analysis (Linear Regression Model), Sales projection (Multi-linear regression), Semantic analysis (NLP) and Start-up valuation. 
+## 📊 Soft Skills
+Teamwork, Time Management, Creative Thinking, Good Listener, Problem Solving, Effective Communication, and Public Speaking.
+
 <br />
 
 <!--START_SECTION:waka-->
