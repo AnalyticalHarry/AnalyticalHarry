@@ -1,5 +1,6 @@
 
 ### Analytical Harry
+---
 
 [![Website](https://img.shields.io/website?label=Youtube&style=for-the-badge&url=https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)](https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)   [![Linkedin](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https://www.linkedin.com/in/thapahemant/)](https://www.linkedin.com/in/thapahemant/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23FF0000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@analyticalharry) [![Twitter Follow](https://img.shields.io/twitter/follow/Whoisthapa?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/whoisthapa)     
@@ -41,7 +42,6 @@ I' m currently located in Glasgow and passionate about developing innovative sol
 🔑 Let's unlock the potential of data together and create a better future through meaningful insights! Join me on this exciting journey of data exploration and analysis. Together, we can make a difference. 🌟📈
 <br />
 
---
 ## 📊 Technical Skills
 Scientific Research, Programming, Big Data, Data mining, Data Cleaning and Preprocessing, Data Visualisation, Statical analysis, Advanced Mathematics, Monte Carlo Simulation, Exploratory Data Analysis, Feature Engineering, Model Selection and Evaluation, Hyperparameter Tuning, Algorithm Building, Logistic Regression, Linear Regression, Decision Trees, Random Forest, Support Vector machines, Naïve Bayes, Neural Networks, Gradient Boosting, Hierarchical Clustering, Density-Based Clustering (DBSCAN), Principal Component Analysis (PCA), Singular Value Decomposition (SVD), Autoencoders, Hypothesis testing, Building Machine Learning Libraries, Time Series Analysis, Dashboard & KPI and Business intelligence (Microsoft Power BI & Tableau)
 
