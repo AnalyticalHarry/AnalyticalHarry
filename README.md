@@ -24,6 +24,7 @@ I' m currently located in Glasgow and passionate about developing innovative sol
 
 ### #Blairdrummond 2019
 # <p aligh="center"> Professional Connection </p>
+```text
 
 🤝 Collaboration Requests: analyticalharry@gmail.com
 
@@ -36,7 +37,7 @@ I' m currently located in Glasgow and passionate about developing innovative sol
 💻 harryworlds.github.io/
 
 ⚙️ pypi.org/project/nalyst/
-
+```
 🔑 Let's unlock the potential of data together and create a better future through meaningful insights! Join me on this exciting journey of data exploration and analysis. Together, we can make a difference. 🌟📈
 <br />
 
@@ -59,11 +60,6 @@ Python, JavaScript, HTML, Microsoft SQL and SQL lite, Power BI, Tableau, Matplot
 Teamwork, Time Management, Creative Thinking, Good Listener, Problem Solving, Effective Communication, and Public Speaking.
 
 <br />
-
-<!--START_SECTION:waka-->
-🛠️Tools 
-VS CODE, Jupyter Notebook, MS Excel, Excel Pivot table, MS Power BI, Tableau, MS Visio, Google Sheet, PTC Creo parametric, SolidWorks, ANSYS and Photshop.
-<!--END_SECTION:waka-->
 
 <img width="100" align='left' src="https://i.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.webp">
 
