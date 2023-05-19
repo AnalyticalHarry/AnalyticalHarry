@@ -28,7 +28,7 @@ I' m currently located in Glasgow and passionate about developing innovative sol
 
 🤝 Collaboration Requests: analyticalharry@gmail.com
 
-🎥 ```text youtube.com/@AnalyticalHarry/videos
+🎥 ```text youtube.com/@AnalyticalHarry/videos```
 
 🎵 ```text tiktok.com/@analyticalharry```
 
