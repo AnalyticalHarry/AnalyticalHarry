@@ -30,7 +30,10 @@ I' m currently located in Glasgow and passionate about developing innovative sol
 
 ⚙️ Machine Learning Library Nalyst
 ```text
-pypi.org/project/nalyst/
+pip install nalyst
+```
+```text
+pip install --upgrade nalyst
 ```
 🔑 Let's unlock the potential of data together and create a better future through meaningful insights! Join me on this exciting journey of data exploration and analysis. Together, we can make a difference. 🌟📈
 <br />
