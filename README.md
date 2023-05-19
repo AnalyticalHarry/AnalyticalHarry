@@ -25,8 +25,6 @@ I' m currently located in Glasgow and passionate about developing innovative sol
 ### #Blairdrummond 2019
 # <p aligh="center"> Professional Connection </p>
 
-[![Website](https://img.shields.io/website?label=Youtube&style=for-the-badge&url=https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)](https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)
-
 🤝 Collaboration Requests: analyticalharry@gmail.com
 
 🎥 youtube.com/@AnalyticalHarry/videos
