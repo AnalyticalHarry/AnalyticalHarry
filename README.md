@@ -23,7 +23,7 @@ I' m currently located in Glasgow and passionate about developing innovative sol
 
 ### #Blairdrummond 2019
 ---
-# <p aligh="center"> [YouTube Channel Subscribers]</p>
+# <p aligh="center"> Professional Connection </p>
 
 [![Website](https://img.shields.io/website?label=Youtube&style=for-the-badge&url=https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)](https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ)
 
