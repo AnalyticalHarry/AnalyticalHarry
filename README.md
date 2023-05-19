@@ -66,13 +66,11 @@ Teamwork, Time Management, Creative Thinking, Good Listener, Problem Solving, Ef
 VS CODE, Jupyter Notebook, MS Excel, Excel Pivot table, MS Power BI, Tableau, MS Visio, Google Sheet, PTC Creo parametric, SolidWorks, ANSYS and Photshop.
 ```
 <!--END_SECTION:waka-->
----
 
 <img width="100" align='left' src="https://i.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.webp">
 
 # <p align="center">Talks about #engineering, #marinescience, #sustanability, #mechanicaldesign, and #datascience
 
----
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ#gh-dark-mode-only)
