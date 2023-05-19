@@ -19,7 +19,7 @@ As a passionate engineer, I am dedicated to finding innovative solutions to comp
 <img width="250" align='left' src="https://github.com/harryworlds/harryworlds/blob/main/park.jpg">
   
 <img width="200" align='right' src="https://github.com/harryworlds/harryworlds/blob/main/glasgow.png">
-I' m currently located in Glasgow and passionate about developing innovative solutions to engineering problems. continuously seeking new challenges, always trying to think out of the box, and doing open-source projects as a Researcher. my long-term goal is to contribute value to our human society and environment. 
+I' m currently located in Glasgow and passionate about developing innovative solutions to engineering problems. continuously seeking new challenges, always trying to think out of the box, and doing open-source projects as a data analyst. my long-term goal is to contribute value to our human society and environment. 
 <br />
 
 ### #Blairdrummond 2019
