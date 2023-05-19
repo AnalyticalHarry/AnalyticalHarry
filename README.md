@@ -61,10 +61,8 @@ Teamwork, Time Management, Creative Thinking, Good Listener, Problem Solving, Ef
 <br />
 
 <!--START_SECTION:waka-->
-```text
 🛠️Tools 
 VS CODE, Jupyter Notebook, MS Excel, Excel Pivot table, MS Power BI, Tableau, MS Visio, Google Sheet, PTC Creo parametric, SolidWorks, ANSYS and Photshop.
-```
 <!--END_SECTION:waka-->
 
 <img width="100" align='left' src="https://i.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.webp">
