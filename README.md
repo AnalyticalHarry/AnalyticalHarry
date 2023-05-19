@@ -69,7 +69,7 @@ VS CODE, Jupyter Notebook, MS Excel, Excel Pivot table, MS Power BI, Tableau, MS
 
 <img width="100" align='left' src="https://i.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.webp">
 
-# <p align="center">Talks about #engineering, #marinescience, #sustanability, #mechanicaldesign, and #datascience
+# <p align="center">Talks about #engineering, #marinescience, #sustanability, #mechanicaldesign, #statistics, #datascience, #machinelearning, #quantitativefinance, and #artificialintelligence
 
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ#gh-light-mode-only)
