@@ -51,17 +51,72 @@ https://pypi.org/project/nalyst/
 🔑 Let's unlock the potential of data together and create a better future through meaningful insights! Join me on this exciting journey of data exploration and analysis. Together, we can make a difference.
 <br />
 
-## Technical Skills
-Scientific Research, Programming, Big Data, Data Mining, Data Cleaning and Preprocessing, Data Visualization, Statistical Analysis, Advanced Mathematics, Monte Carlo Simulation, Exploratory Data Analysis, Feature Engineering, Model Selection and Evaluation, Hyperparameter Tuning, Algorithm Building, Logistic Regression, Linear Regression, Decision Trees, Random Forest, Support Vector Machines, Naïve Bayes, Neural Networks, Gradient Boosting, Hierarchical Clustering, Density-Based Clustering (DBSCAN), Principal Component Analysis (PCA), Singular Value Decomposition (SVD), Autoencoders, Hypothesis Testing, Building Machine Learning Libraries, Time Series Analysis, Dashboard & KPI, and Business Intelligence (Microsoft Power BI & Tableau).
+## Technical 
+- Data Analysis and Data Mining
+- Data Preprocessing and Cleaning
+- Data Visualization
+- Statistical Analysis
+- Advanced Mathematics
+- Machine Learning (Logistic Regression, Linear Regression, Decision Trees, Random Forest, Support Vector Machines, Naïve Bayes, Neural Networks, Gradient Boosting)
+- Clustering Techniques (Hierarchical Clustering, DBSCAN)
+- Dimensionality Reduction (PCA, SVD, Autoencoders)
+- Hypothesis Testing
+- Building Machine Learning Models
+- Time Series Analysis
+- Dashboard and KPI Development
+- Business Intelligence Tools (Microsoft Power BI, Tableau)
+- Natural Language Processing (NLP)
+- Deep Learning
+- Reinforcement Learning
+- Text Mining
+- A/B Testing
+- Feature Selection and Engineering
+- Model Deployment
+- Data Governance and Data Quality
 
-## Asset Management Skills
-Technical Analysis & Fundamental Analysis (Yahoo Finance API), Break-Even Analysis, Portfolio Construction and Management, Risk Management, Valuation and Risk Model, Quantitative Analysis (Advanced Statistics), Trend Analysis (Linear Regression Model), Sales Projection (Multi-linear Regression), Semantic Analysis (NLP), and Start-up Valuation.
 
-## 📊 Software and Expertise
-Python, JavaScript, HTML, Microsoft SQL and SQL Lite, Power BI, Tableau, Matplotlib, Seaborn, Numpy, Pandas, Polar, Scikit-learn, Keras, TensorFlow, Jupyter Notebook, Visual Studio Code, Google Colab, MS Word, MS Excel, MS Visio, MS PowerPoint, MS Team, Google Sheet, and Adobe Photoshop.
+## Asset Management 
+- Technical and Fundamental Analysis
+- Portfolio Construction and Management
+- Risk Analysis and Management
+- Valuation and Risk Modeling
+- Quantitative Analysis (Advanced Statistics)
+- Trend Analysis (Linear Regression Model)
+- Sales Projection (Multi-linear Regression)
+- Semantic Analysis (NLP)
+- Start-up Valuation
+- Equity and Fixed Income Analysis
+- Alternative Investments
+- Option Pricing and Strategies
+- Investment Strategy Development
+- Financial Modeling and Forecasting
+- Economic and Market Analysis
+- Asset Allocation and Diversification
+- Regulatory Compliance and Reporting
+- ESG (Environmental, Social, Governance) Investing
+- Trading and Execution Strategies
+- Investment Research and Due Diligence
 
-## 📊 Soft Skills
-Teamwork, Time Management, Creative Thinking, Good Listener, Problem Solving, Effective Communication, and Public Speaking.
+##  Software and Expertise
+- **Programming Languages**: Python, JavaScript
+- **Web Development**: HTML
+- **Database**: Microsoft SQL, SQL Lite
+- **Data Visualization Tools**: Power BI, Tableau, Matplotlib, Seaborn
+- **Data Science Libraries**: Numpy, Pandas, Scikit-learn, Keras, TensorFlow
+- **Development Environments**: Jupyter Notebook, Visual Studio Code, Google Colab
+- **Microsoft Office Suite**: MS Word, MS Excel, MS Visio, MS PowerPoint, MS Team
+- **Collaborative Tools**: Google Sheets
+- **Graphic Design**: Adobe Photoshop
+
+##  Soft Skills
+- **Teamwork**
+- **Time Management**
+- **Creative Thinking**
+- **Active Listener**
+- **Problem Solving**
+- **Effective Communication**
+- **Public Speaking**
+
 <br />
 
 <img width="100" align='left' src="https://i.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.webp">
