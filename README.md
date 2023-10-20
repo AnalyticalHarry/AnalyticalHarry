@@ -122,11 +122,11 @@ https://pypi.org/project/nalyst/
 <p align="center">Talks about #statistics, #datascience, #machinelearning, #quantitativefinance, and #artificialintelligence
 
 &nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/@AnalyticalHarry#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/@AnalyticalHarry#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/whoisthapa#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/whoisthapa#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/AnalyticalHarry#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/AnalyticalHarry#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/thapahemant/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/thapahemant/#gh-dark-mode-only)
