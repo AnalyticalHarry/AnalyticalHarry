@@ -2,8 +2,23 @@
 Analytical Harry
 ---
 
-[![Website](https://img.shields.io/website?label=Youtube&style=for-the-badge&url=https://www.youtube.com/@AnalyticalHarry)](https://www.youtube.com/@AnalyticalHarry)   [![Linkedin](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https://www.linkedin.com/in/analyticalharry/)](https://www.linkedin.com/in/thapahemant/)
-[![TikTok](https://img.shields.io/badge/@AnalyticalHarry-%23FF0000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@analyticalharry) [![Twitter Follow](https://img.shields.io/twitter/follow/AnalyticalHarry?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/AnalyticalHarry)     
+<p align="center">
+  <a href="https://www.youtube.com/@AnalyticalHarry">
+    <img src="https://img.shields.io/website?label=YouTube&style=for-the-badge&url=https://www.youtube.com/@AnalyticalHarry" alt="YouTube">
+  </a>
+  <a href="https://www.linkedin.com/in/analyticalharry/">
+    <img src="https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https://www.linkedin.com/in/analyticalharry/" alt="LinkedIn">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.tiktok.com/@analyticalharry">
+    <img src="https://img.shields.io/badge/@AnalyticalHarry-%23FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
+  </a>
+  <a href="https://twitter.com/AnalyticalHarry">
+    <img src="https://img.shields.io/twitter/follow/AnalyticalHarry?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow">
+  </a>
+</p>
 
 
 <p align="leftr"> "Data is like a puzzle, it may seem complex at first, but with the right tools, techniques, and determination, it can be deciphered and transformed into valuable insights."
@@ -38,32 +53,25 @@ pip install --upgrade nalyst
 ```text
 https://pypi.org/project/nalyst/
 ```
-🔑 Let's unlock the potential of data together and create a better future through meaningful insights! Join me on this exciting journey of data exploration and analysis. Together, we can make a difference. 🌟📈
+🔑 Let's unlock the potential of data together and create a better future through meaningful insights! Join me on this exciting journey of data exploration and analysis. Together, we can make a difference.
 <br />
 
 ## Technical Skills
-Scientific Research, Programming, Big Data, Data mining, Data Cleaning and Preprocessing, Data Visualisation, Statical analysis, Advanced Mathematics, Monte Carlo Simulation, Exploratory Data Analysis, Feature Engineering, Model Selection and Evaluation, Hyperparameter Tuning, Algorithm Building, Logistic Regression, Linear Regression, Decision Trees, Random Forest, Support Vector machines, Naïve Bayes, Neural Networks, Gradient Boosting, Hierarchical Clustering, Density-Based Clustering (DBSCAN), Principal Component Analysis (PCA), Singular Value Decomposition (SVD), Autoencoders, Hypothesis testing, Building Machine Learning Libraries, Time Series Analysis, Dashboard & KPI and Business intelligence (Microsoft Power BI & Tableau)
+Scientific Research, Programming, Big Data, Data Mining, Data Cleaning and Preprocessing, Data Visualization, Statistical Analysis, Advanced Mathematics, Monte Carlo Simulation, Exploratory Data Analysis, Feature Engineering, Model Selection and Evaluation, Hyperparameter Tuning, Algorithm Building, Logistic Regression, Linear Regression, Decision Trees, Random Forest, Support Vector Machines, Naïve Bayes, Neural Networks, Gradient Boosting, Hierarchical Clustering, Density-Based Clustering (DBSCAN), Principal Component Analysis (PCA), Singular Value Decomposition (SVD), Autoencoders, Hypothesis Testing, Building Machine Learning Libraries, Time Series Analysis, Dashboard & KPI, and Business Intelligence (Microsoft Power BI & Tableau).
 
-## Asset Management skills
-Technical Analysis & Fundamental Analysis (Yahoo Finance API), Break-Even Analysis, Portfolio construction and management, Risk Management, Valuation and Risk Model, Quantitative analysis (Advance Statics), Trend Analysis (Linear Regression Model), Sales projection (Multi-linear regression), Semantic analysis (NLP) and Start-up valuation. 
-
-## Mech Skills
-Engineering drawing Knowledge, 2D Surface modeling, 3D Solid Modeling, Design Analysis, Finite Element Analysis (FEA), 
-Materially nonlinear Analysis, Static Structure Analysis, Stress Analysis & Safety factor, Fatigue Analysis, 
-Computational Fluid Dynamic (CFD) Simulation, Fluid flow Analysis, Thermal Analysis, Composite Structure, 
-Design and Prototype Testing, and environmental impact Assessments.
+## Asset Management Skills
+Technical Analysis & Fundamental Analysis (Yahoo Finance API), Break-Even Analysis, Portfolio Construction and Management, Risk Management, Valuation and Risk Model, Quantitative Analysis (Advanced Statistics), Trend Analysis (Linear Regression Model), Sales Projection (Multi-linear Regression), Semantic Analysis (NLP), and Start-up Valuation.
 
 ## 📊 Software and Expertise
-Python, JavaScript, HTML, Microsoft SQL and SQL lite, Power BI, Tableau, Matplotlib, Seaborn, Numpy, Pandas, Polar, Scikit-learn, Keras, Tensorflow, Jupyter Notebook, Visual Studio Code, Google Colab, MS Word, MS Excel, MS Visio, MS PowerPoint, MS Team, Google Sheet, and Adobe Photoshop.
+Python, JavaScript, HTML, Microsoft SQL and SQL Lite, Power BI, Tableau, Matplotlib, Seaborn, Numpy, Pandas, Polar, Scikit-learn, Keras, TensorFlow, Jupyter Notebook, Visual Studio Code, Google Colab, MS Word, MS Excel, MS Visio, MS PowerPoint, MS Team, Google Sheet, and Adobe Photoshop.
 
 ## 📊 Soft Skills
 Teamwork, Time Management, Creative Thinking, Good Listener, Problem Solving, Effective Communication, and Public Speaking.
-
 <br />
 
 <img width="100" align='left' src="https://i.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.webp">
 
-<p align="center">Talks about #engineering, #marinescience, #sustanability, #mechanicaldesign, #statistics, #datascience, #machinelearning, #quantitativefinance, and #artificialintelligence
+<p align="center">Talks about #statistics, #datascience, #machinelearning, #quantitativefinance, and #artificialintelligence
 
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCvMhAaE-L3rwkXUf4BnIhuQ#gh-light-mode-only)
