@@ -41,13 +41,13 @@ https://pypi.org/project/nalyst/
 🔑 Let's unlock the potential of data together and create a better future through meaningful insights! Join me on this exciting journey of data exploration and analysis. Together, we can make a difference. 🌟📈
 <br />
 
-## 📊 Technical Skills
+## Technical Skills
 Scientific Research, Programming, Big Data, Data mining, Data Cleaning and Preprocessing, Data Visualisation, Statical analysis, Advanced Mathematics, Monte Carlo Simulation, Exploratory Data Analysis, Feature Engineering, Model Selection and Evaluation, Hyperparameter Tuning, Algorithm Building, Logistic Regression, Linear Regression, Decision Trees, Random Forest, Support Vector machines, Naïve Bayes, Neural Networks, Gradient Boosting, Hierarchical Clustering, Density-Based Clustering (DBSCAN), Principal Component Analysis (PCA), Singular Value Decomposition (SVD), Autoencoders, Hypothesis testing, Building Machine Learning Libraries, Time Series Analysis, Dashboard & KPI and Business intelligence (Microsoft Power BI & Tableau)
 
-## 📊 Asset Management skills
+## Asset Management skills
 Technical Analysis & Fundamental Analysis (Yahoo Finance API), Break-Even Analysis, Portfolio construction and management, Risk Management, Valuation and Risk Model, Quantitative analysis (Advance Statics), Trend Analysis (Linear Regression Model), Sales projection (Multi-linear regression), Semantic analysis (NLP) and Start-up valuation. 
 
-## 📊 Mech Skills
+## Mech Skills
 Engineering drawing Knowledge, 2D Surface modeling, 3D Solid Modeling, Design Analysis, Finite Element Analysis (FEA), 
 Materially nonlinear Analysis, Static Structure Analysis, Stress Analysis & Safety factor, Fatigue Analysis, 
 Computational Fluid Dynamic (CFD) Simulation, Fluid flow Analysis, Thermal Analysis, Composite Structure, 
