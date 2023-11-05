@@ -1,19 +1,3 @@
-
-<p align="center">
-  <a href="https://www.youtube.com/@AnalyticalHarry">
-    <img src="https://img.shields.io/website?label=YouTube&style=for-the-badge&url=https://www.youtube.com/@AnalyticalHarry" alt="YouTube">
-  </a>
-  <a href="https://www.linkedin.com/in/analyticalharry/">
-    <img src="https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https://www.linkedin.com/in/analyticalharry/" alt="LinkedIn">
-  </a>
-  <a href="https://www.tiktok.com/@analyticalharry">
-    <img src="https://img.shields.io/badge/@AnalyticalHarry-%23FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-  </a>
-  <a href="https://twitter.com/AnalyticalHarry">
-    <img src="https://img.shields.io/twitter/follow/AnalyticalHarry?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow">
-  </a>
-</p>
-
 <p align="leftr"> "Data is like a puzzle, it may seem complex at first, but with the right tools, techniques, and determination, it can be deciphered and transformed into valuable insights."
 
 Enthusiastic and results-driven data analyst with a background in mechanical engineering accredited by the Institution of Mechanical Engineers (IMechE) and data science.
