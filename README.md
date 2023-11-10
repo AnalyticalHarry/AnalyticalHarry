@@ -18,19 +18,12 @@ I' m currently located in Glasgow and passionate about developing innovative sol
 # <p aligh="center"> Professional Connection </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@AnalyticalHarry">
-    <img src="https://img.shields.io/website?label=YouTube&style=for-the-badge&url=https://www.youtube.com/@AnalyticalHarry" alt="YouTube">
-  </a>
-  <a href="https://www.linkedin.com/in/analyticalharry/">
-    <img src="https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https://www.linkedin.com/in/analyticalharry/" alt="LinkedIn">
-  </a>
-  <a href="https://www.tiktok.com/@analyticalharry">
-    <img src="https://img.shields.io/badge/@AnalyticalHarry-%23FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
-  </a>
-  <a href="https://twitter.com/AnalyticalHarry">
-    <img src="https://img.shields.io/twitter/follow/AnalyticalHarry?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow">
-  </a>
+  <a href="https://www.youtube.com/@AnalyticalHarry"><img src="https://img.shields.io/website?label=YouTube&style=for-the-badge&url=https://www.youtube.com/@AnalyticalHarry" alt="YouTube"></a>
+  <a href="https://www.linkedin.com/in/analyticalharry/"><img src="https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https://www.linkedin.com/in/analyticalharry/" alt="LinkedIn"></a>
+  <a href="https://www.tiktok.com/@analyticalharry"><img src="https://img.shields.io/badge/@AnalyticalHarry-%23FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"></a>
+  <a href="https://twitter.com/AnalyticalHarry"><img src="https://img.shields.io/twitter/follow/AnalyticalHarry?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow"></a>
 </p>
+
 🤝 Collaboration Requests: analyticalharry@gmail.com
 
 ⚙️ Machine Learning Library Nalyst
