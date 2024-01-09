@@ -91,7 +91,7 @@ https://pypi.org/project/nalyst/
 - **Web Development**: HTML
 - **Database**: Microsoft SQL, SQL Lite
 - **Data Visualization Tools**: Power BI, Tableau, Matplotlib, Seaborn
-- **Data Science Libraries**: Numpy, Pandas, Scikit-learn, Keras, TensorFlow
+- **Data Science Libraries**: Numpy, Pandas, Scikit-learn, Keras, TensorFlow, Streamlit, yfinance, pyttsx3, gTTS (Google Text-to-Speech), sounddevice, SpeechRecognition
 - **Development Environments**: Jupyter Notebook, Visual Studio Code, Google Colab
 - **Microsoft Office Suite**: MS Word, MS Excel, MS Visio, MS PowerPoint, MS Team
 - **Collaborative Tools**: Google Sheets
