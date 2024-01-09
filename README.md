@@ -47,6 +47,7 @@ https://pypi.org/project/nalyst/
 - Statistical Analysis
 - Advanced Mathematics
 - Machine Learning (Logistic Regression, Linear Regression, Decision Trees, Random Forest, Support Vector Machines, Naïve Bayes, Neural Networks, Gradient Boosting)
+- Deep Learning (Feedforward neural network, Convolutional Neural Networks, Recurrent Neural Networks and Autoencoders)
 - Clustering Techniques (Hierarchical Clustering, DBSCAN)
 - Dimensionality Reduction (PCA, SVD, Autoencoders)
 - Hypothesis Testing
