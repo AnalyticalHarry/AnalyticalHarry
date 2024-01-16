@@ -37,7 +37,7 @@ pip install --upgrade nalyst
 ```text
 https://pypi.org/project/nalyst/
 ```
-🔑 Let's unlock the potential of data together and create a better future through meaningful insights! Join me on this exciting journey of data exploration and analysis. Together, we can make a difference.
+🔑 A better future through meaningful insights! Join me on this exciting journey of data exploration and analysis. Together, we can make a difference.
 <br />
 
 ## Technical 
