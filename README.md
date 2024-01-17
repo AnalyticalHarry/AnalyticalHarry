@@ -5,7 +5,7 @@ Enthusiastic and results-driven professional with a passion for bringing ideas t
 As a passionate engineer, I am dedicated to finding innovative solutions to complex problems. I am always seeking new challenges and strive to think creatively, contributing to open-source data science projects along the way. My goal is to make a positive impact on the engineering community and bring people together through my work. 
   
 
-![Harry's World](https://raw.githubusercontent.com/harryworlds/harryworlds/main/glasgow.jpg)
+![Harry's World](https://raw.githubusercontent.com/AnalyticalHarry/AnalyticalHarry/main/img/glasgow.jpg)
 ---
 
 <img width="250" align='left' src="https://github.com/harryworlds/harryworlds/blob/main/park.jpg">
