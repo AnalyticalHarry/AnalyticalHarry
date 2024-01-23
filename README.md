@@ -88,7 +88,7 @@ https://pypi.org/project/nalyst/
 - Investment Research and Due Diligence
 
 ##  Software and Expertise
-- **Programming Languages**: Python, JavaScript
+- **Programming Languages**: Python, JavaScript, C++ and R Language 
 - **Web Development**: HTML, CSS & Streamlit
 - **Database**: Microsoft SQL, SQL Lite
 - **Data Visualization Tools**: Power BI, Tableau, Matplotlib, Seaborn
