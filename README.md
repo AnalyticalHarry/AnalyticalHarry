@@ -94,7 +94,7 @@ https://pypi.org/project/nalyst/
 - **Data Visualization Tools**: Power BI, Tableau, Matplotlib, Seaborn
 - **Data Science Libraries**: Numpy, Pandas, Polars, Scikit-learn, Keras, TensorFlow, PyTorch, Streamlit, yfinance, pyttsx3, gTTS (Google Text-to-Speech), sounddevice, SpeechRecognition
 - **Development Environments**: Jupyter Notebook, Visual Studio Code, Google Colab
-- **Microsoft Office Suite**: MS Word, MS Excel, MS Visio, MS PowerPoint, MS Team
+- **Microsoft Office Suite & Analytics**: MS Word, MS Excel, MS Visio, MS PowerPoint, MS Team, Google Analytics 
 - **Collaborative Tools**: Google Sheets
 - **Graphic Design**: Adobe Photoshop
 
