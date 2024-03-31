@@ -1,9 +1,6 @@
 <p align="leftr"> Data is like a puzzle, it may seem complex at first, but with the right tools, techniques, and determination, it can be deciphered and transformed into valuable insights.
 
-Enthusiastic and results-driven professional with a passion for bringing ideas to life and constructing tangible solutions. Recognised for a keen interest in building and transforming conceptual visions into real world applications, with a background in mechanical engineering accredited by the Institution of Mechanical Engineers (IMechE).
-  
-As a passionate engineer, I am dedicated to finding innovative solutions to complex problems. I am always seeking new challenges and strive to think creatively, contributing to open-source data science projects along the way. My goal is to make a positive impact on the engineering community and bring people together through my work. 
-  
+Results-driven professional with a passion for bringing ideas to life and constructing tangible solutions. Recognised for a keen interest in building and transforming conceptual visions into real world applications, with a background in mechanical engineering accredited by the Institution of Mechanical Engineers (IMechE).  
 
 ![Harry's World](https://raw.githubusercontent.com/AnalyticalHarry/AnalyticalHarry/main/img/glasgow.jpg)
 ---
