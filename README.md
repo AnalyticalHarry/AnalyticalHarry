@@ -1,4 +1,5 @@
-<p align="leftr">I develop and train neural networks for big data, working with datasets that contain millions of rows and columns.
+<p align="leftr">I can analyse big data, construct predictive models, and translate data into meaningful insights that 
+drive business strategy.
   
 Results-driven professional with a passion for bringing ideas to life and constructing 
 tangible solutions. Recognised for a keen interest in building and transforming conceptual visions into 
