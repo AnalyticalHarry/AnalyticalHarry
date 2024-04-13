@@ -1,6 +1,8 @@
-<p align="leftr"> Data is like a puzzle, it may seem complex at first, but with the right tools, techniques, and determination, it can be deciphered and transformed into valuable insights.
-
-Results-driven professional with a passion for bringing ideas to life and constructing tangible solutions. Recognised for a keen interest in building and transforming conceptual visions into real world applications, with a background in mechanical engineering accredited by the Institution of Mechanical Engineers (IMechE).  
+<p align="leftr">I develop and train neural networks for big data, working with datasets that contain millions of rows and columns.
+  
+Results-driven professional with a passion for bringing ideas to life and constructing 
+tangible solutions. Recognised for a keen interest in building and transforming conceptual visions into 
+real world applications.  
 
 ![Harry's World](https://raw.githubusercontent.com/AnalyticalHarry/AnalyticalHarry/main/img/glasgow.jpg)
 ---
