@@ -89,7 +89,7 @@ https://pypi.org/project/nalyst/
 
 ##  Software and Expertise
 - **Programming Languages**: Python, JavaScript, C++ and R Programming 
-- **Web Development**: HTML, CSS & Streamlit
+- **Web Development**: HTML, CSS & Streamlit, Node.js, Django
 - **Database**: Microsoft SQL, SQL Lite
 - **Data Visualization Tools**: Power BI, Tableau, Matplotlib, Seaborn
 - **Data Science Libraries**: Numpy, Pandas, Polars, Scikit-learn, Keras, TensorFlow, PyTorch, Streamlit, yfinance, pyttsx3, gTTS (Google Text-to-Speech), sounddevice, SpeechRecognition
