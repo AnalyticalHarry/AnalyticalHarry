@@ -42,25 +42,20 @@ https://pypi.org/project/nalyst/
 
 ## Technical 
 - Data Analysis and Data Mining
-- Data Preprocessing and Cleaning
-- Data Visualization
+- Data Preprocessing
 - Statistical Analysis
+- Data Visualization
 - Advanced Mathematics
 - Machine Learning (Logistic Regression, Linear Regression, Decision Trees, Random Forest, Support Vector Machines, Naïve Bayes, Neural Networks, Gradient Boosting)
 - Deep Learning (Feedforward neural network, Convolutional Neural Networks, Recurrent Neural Networks and Autoencoders)
 - Clustering Techniques (Hierarchical Clustering, DBSCAN)
 - Dimensionality Reduction (PCA, SVD, Autoencoders)
-- Hypothesis Testing
-- Building Machine Learning Models
 - Time Series Analysis
 - Dashboard and KPI Development
 - Business Intelligence Tools (Microsoft Power BI, Tableau)
 - Natural Language Processing (NLP)
-- Deep Learning
-- Reinforcement Learning
 - Text Mining
 - A/B Testing
-- Feature Selection and Engineering
 - Model Deployment
 - Data Governance and Data Quality
 
@@ -68,12 +63,9 @@ https://pypi.org/project/nalyst/
 ## Asset Management 
 - Technical and Fundamental Analysis
 - Portfolio Construction and Management
-- Risk Analysis and Management
-- Valuation and Risk Modeling
-- Quantitative Analysis (Advanced Statistics)
+- Risk Analysis 
+- Quantitative Analysis 
 - Trend Analysis (Linear Regression Model)
-- Sales Projection (Multi-linear Regression)
-- Semantic Analysis (NLP)
 - Start-up Valuation
 - Equity and Fixed Income Analysis
 - Alternative Investments
@@ -83,29 +75,17 @@ https://pypi.org/project/nalyst/
 - Economic and Market Analysis
 - Asset Allocation and Diversification
 - Regulatory Compliance and Reporting
-- ESG (Environmental, Social, Governance) Investing
-- Trading and Execution Strategies
-- Investment Research and Due Diligence
 
 ##  Software and Expertise
 - **Programming Languages**: Python, JavaScript, C++ and R Programming 
-- **Web Development**: HTML, CSS & Streamlit, Node.js, Django
-- **Database**: Microsoft SQL, SQL Lite
-- **Data Visualization Tools**: Power BI, Tableau, Matplotlib, Seaborn
-- **Data Science Libraries**: Numpy, Pandas, Polars, Scikit-learn, Keras, TensorFlow, PyTorch, Streamlit, yfinance, pyttsx3, gTTS (Google Text-to-Speech), sounddevice, SpeechRecognition
-- **Development Environments**: Jupyter Notebook, Visual Studio Code, Google Colab
-- **Microsoft Office Suite & Analytics**: MS Word, MS Excel, MS Visio, MS PowerPoint, MS Team, Google Analytics 
+- **Web Development & Framework**: HTML, CSS & Streamlit, Node.js, Django, and React
+- **Database**: Microsoft SQL, SQL Lite, and Mongodb
+- **Data Visualisation Tools**: Power BI, Tableau, Matplotlib, and Seaborn
+- **Data Science Libraries (Api)**: Numpy, Pandas, Polars, Scikit-learn, Keras, TensorFlow, PyTorch, yfinance, pyttsx3, gTTS (Google Text-to-Speech), sounddevice, and SpeechRecognition
+- **Development Environments**: Jupyter Notebook, Visual Studio Code, and Google Colab
+- **Microsoft Office Suite & Analytics**: MS Word, MS Excel, MS Visio, MS PowerPoint, MS Team, and Google Analytics 
 - **Collaborative Tools**: Google Sheets
 - **Graphic Design**: Adobe Photoshop
-
-##  Soft Skills
-- **Teamwork**
-- **Time Management**
-- **Creative Thinking**
-- **Active Listener**
-- **Problem Solving**
-- **Effective Communication**
-- **Public Speaking**
 
 <br />
 
