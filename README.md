@@ -11,7 +11,7 @@ real world applications.
 <img width="250" align='left' src="https://github.com/harryworlds/harryworlds/blob/main/park.jpg">
   
 <img width="200" align='right' src="https://github.com/harryworlds/harryworlds/blob/main/glasgow.png">
-I' m currently located in Glasgow and passionate about developing innovative solutions to engineering problems. continuously seeking new challenges, always trying to think out of the box, and doing open-source projects as a data analyst. my long-term goal is to contribute value to our human society and environment. 
+Currently located in Glasgow and passionate about developing innovative solutions to engineering problems. continuously seeking new challenges, always trying to think out of the box, and doing open-source projects as a data analyst. my long-term goal is to contribute value to our human society and environment. 
 <br />
 
 ### #Blairdrummond 2019
@@ -37,28 +37,14 @@ pip install --upgrade nalyst
 ```text
 https://pypi.org/project/nalyst/
 ```
-🔑 A better future through meaningful insights! Join me on this exciting journey of data exploration and analysis. Together, we can make a difference.
 <br />
 
 ## Technical 
-I have experience in data analysis, preprocessing, and statistical methods, with a solid understanding of advanced mathematics. I'm familiar with machine learning algorithms like regression, decision trees, random forest, SVM, and neural networks, as well as deep learning models such as CNNs, RNNs, and autoencoders. I’ve worked with clustering (hierarchical, DBSCAN), dimensionality reduction (PCA, SVD), and time series analysis. I can create dashboards and KPIs using Power BI and Tableau, and have experience in NLP, text mining, A/B testing, and deploying models, while maintaining data governance and quality.
+Experience in data analysis, preprocessing, and statistical methods, with a solid understanding of advanced mathematics. I'm familiar with machine learning algorithms like regression, decision trees, random forest, SVM, and neural networks, as well as deep learning models such as CNNs, RNNs, and autoencoders. I’ve worked with clustering (hierarchical, DBSCAN), dimensionality reduction (PCA, SVD), and time series analysis. I can create dashboards and KPIs using Power BI and Tableau, and have experience in NLP, text mining, A/B testing, and deploying models, while maintaining data governance and quality.
 
 
 ## Asset Management 
-- Technical and Fundamental Analysis
-- Portfolio Construction and Management
-- Risk Analysis 
-- Quantitative Analysis 
-- Trend Analysis (Linear Regression Model)
-- Start-up Valuation
-- Equity and Fixed Income Analysis
-- Alternative Investments
-- Option Pricing and Strategies
-- Investment Strategy Development
-- Financial Modeling and Forecasting
-- Economic and Market Analysis
-- Asset Allocation and Diversification
-- Regulatory Compliance and Reporting
+Experienced in technical and fundamental analysis, portfolio construction, management, and risk analysis. Skilled in quantitative and trend analysis (linear regression), start-up valuation, and equity and fixed income analysis. Familiar with alternative investments, option pricing, and strategies. Involved in investment strategy development, financial modeling, forecasting, economic and market analysis, asset allocation, diversification, as well as ensuring regulatory compliance and reporting.
 
 ##  Software and Expertise
 - **Programming Languages**: Python, JavaScript, C++ and R Programming 
