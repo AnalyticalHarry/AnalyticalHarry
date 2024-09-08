@@ -1,10 +1,6 @@
 <p align="leftr">I can analyse big data, construct predictive models, and translate data into meaningful insights that 
 drive business strategy.
   
-Results-driven professional with a passion for bringing ideas to life and constructing 
-tangible solutions. Recognised for a keen interest in building and transforming conceptual visions into 
-real world applications.  
-
 ![Harry's World](https://raw.githubusercontent.com/AnalyticalHarry/AnalyticalHarry/main/img/glasgow.jpg)
 ---
 
@@ -15,18 +11,12 @@ Currently located in Glasgow and passionate about developing innovative solution
 <br />
 
 ### #Blairdrummond 2019
-
-🤝 Collaboration Requests: analyticalharry@gmail.com
-
 ⚙️ Machine Learning Library Nalyst
 ```text
 pip install nalyst
 ```
 ```text
 pip install --upgrade nalyst
-```
-```text
-https://pypi.org/project/nalyst/
 ```
 <br />
 
@@ -60,3 +50,4 @@ Experienced in technical and fundamental analysis, portfolio construction, manag
   <a href="https://twitter.com/AnalyticalHarry"><img src="https://img.shields.io/twitter/follow/AnalyticalHarry?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow" height="20"></a>
 </p>
 
+🤝 Collaboration Requests: analyticalharry@gmail.com
