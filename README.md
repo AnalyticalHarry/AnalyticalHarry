@@ -1,4 +1,4 @@
-<p align="leftr">I can analyse big data, construct predictive models, and translate data into meaningful insights that 
+<p align="leftr"> ### I can analyse big data, construct predictive models, and translate data into meaningful insights that 
 drive business strategy.
   
 ![Harry's World](https://raw.githubusercontent.com/AnalyticalHarry/AnalyticalHarry/main/img/glasgow.jpg)
