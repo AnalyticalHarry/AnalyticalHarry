@@ -7,7 +7,7 @@ drive business strategy.
 <img width="250" align='left' src="https://github.com/harryworlds/harryworlds/blob/main/park.jpg">
   
 <img width="200" align='right' src="https://github.com/harryworlds/harryworlds/blob/main/glasgow.png">
-Currently located in Glasgow and passionate about developing innovative solutions to engineering problems. continuously seeking new challenges, always trying to think out of the box, and doing open-source projects as a data analyst. my long-term goal is to contribute value to our human society and environment. 
+Based in Glasgow, I am driven by a passion for developing innovative solutions to engineering challenges. I thrive on exploring new ideas, thinking creatively, and actively contributing to open-source projects. With a continuous pursuit of growth and learning, my long-term goal is to make a meaningful impact on both society and the environment.
 <br />
 
 ##### #Blairdrummond 2019
