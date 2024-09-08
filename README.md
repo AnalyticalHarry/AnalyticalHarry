@@ -3,7 +3,11 @@ drive business strategy.
   
 ![Harry's World](https://raw.githubusercontent.com/AnalyticalHarry/AnalyticalHarry/main/img/glasgow.jpg)
 ---
-[Watch my video](https://github.com/AnalyticalHarry/AnalyticalHarry/blob/main/video.mp4)
+<video width="640" height="480" controls>
+  <source src="https://github.com/AnalyticalHarry/AnalyticalHarry/blob/main/video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 <img width="250" align='left' src="https://github.com/harryworlds/harryworlds/blob/main/park.jpg">
   
