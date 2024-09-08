@@ -10,7 +10,7 @@ drive business strategy.
 Currently located in Glasgow and passionate about developing innovative solutions to engineering problems. continuously seeking new challenges, always trying to think out of the box, and doing open-source projects as a data analyst. my long-term goal is to contribute value to our human society and environment. 
 <br />
 
-# #Blairdrummond 2019
+##### #Blairdrummond 2019
 ⚙️ Machine Learning Library Nalyst
 ```text
 pip install nalyst
