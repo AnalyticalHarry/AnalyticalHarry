@@ -11,7 +11,7 @@ Currently located in Glasgow and passionate about developing innovative solution
 <br />
 
 ##### #Blairdrummond 2019
-⚙️ Machine Learning Library Nalyst
+⚙️ Founded Machine Learning Library Nalyst on 2022
 ```text
 pip install nalyst
 ```
