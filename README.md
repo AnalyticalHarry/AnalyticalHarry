@@ -21,7 +21,7 @@ pip install --upgrade nalyst
 <br />
 
 ## Technical 
-Experience in data analysis, preprocessing, and statistical methods, with a solid understanding of advanced mathematics. I'm familiar with machine learning algorithms like regression, decision trees, random forest, SVM, and neural networks, as well as deep learning models such as CNNs, RNNs, and autoencoders. I’ve worked with clustering (hierarchical, DBSCAN), dimensionality reduction (PCA, SVD), and time series analysis. I can create dashboards and KPIs using Power BI and Tableau, and have experience in NLP, text mining, A/B testing, and deploying models, while maintaining data governance and quality.
+Experience in data analysis, preprocessing, and statistical methods, with a solid understanding of advanced mathematics. I'm familiar with build machine learning algorithms from scratch like regression, decision trees, random forest, SVM, and neural networks, as well as deep learning models such as CNNs, RNNs, and autoencoders. I’ve worked with clustering (hierarchical, DBSCAN), dimensionality reduction (PCA, SVD), and time series analysis. I can create dashboards and KPIs using Power BI and Tableau, and have experience in NLP, text mining, A/B testing, and deploying models, while maintaining data governance and quality.
 
 
 ## Asset Management 
