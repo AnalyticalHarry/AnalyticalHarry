@@ -15,15 +15,6 @@ Currently located in Glasgow and passionate about developing innovative solution
 <br />
 
 ### #Blairdrummond 2019
-# <p aligh="center"> Professional Connection </p>
-
-<p align="center">
-  <a href="https://www.youtube.com/@AnalyticalHarry"><img src="https://img.shields.io/website?label=YouTube&style=for-the-badge&url=https://www.youtube.com/@AnalyticalHarry" alt="YouTube" height="20"></a>
-  <a href="https://www.linkedin.com/in/analyticalharry/"><img src="https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https://www.linkedin.com/in/analyticalharry/" alt="LinkedIn" height="20"></a>
-  <a href="https://www.tiktok.com/@analyticalharry"><img src="https://img.shields.io/badge/@AnalyticalHarry-%23FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="20"></a>
-  <a href="https://twitter.com/AnalyticalHarry"><img src="https://img.shields.io/twitter/follow/AnalyticalHarry?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow" height="20"></a>
-</p>
-
 
 🤝 Collaboration Requests: analyticalharry@gmail.com
 
@@ -61,15 +52,11 @@ Experienced in technical and fundamental analysis, portfolio construction, manag
 
 <img width="100" align='left' src="https://i.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.webp">
 
-<p align="center">Talks about #statistics, #datascience, #machinelearning, #quantitativefinance, and #artificialintelligence
 
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@AnalyticalHarry#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@AnalyticalHarry#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/AnalyticalHarry#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/AnalyticalHarry#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/thapahemant/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/thapahemant/#gh-dark-mode-only)
-&nbsp;&nbsp;
+<p align="center">
+  <a href="https://www.youtube.com/@AnalyticalHarry"><img src="https://img.shields.io/website?label=YouTube&style=for-the-badge&url=https://www.youtube.com/@AnalyticalHarry" alt="YouTube" height="20"></a>
+  <a href="https://www.linkedin.com/in/analyticalharry/"><img src="https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https://www.linkedin.com/in/analyticalharry/" alt="LinkedIn" height="20"></a>
+  <a href="https://www.tiktok.com/@analyticalharry"><img src="https://img.shields.io/badge/@AnalyticalHarry-%23FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="20"></a>
+  <a href="https://twitter.com/AnalyticalHarry"><img src="https://img.shields.io/twitter/follow/AnalyticalHarry?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow" height="20"></a>
+</p>
+
