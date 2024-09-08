@@ -25,7 +25,7 @@ Experience in data analysis, preprocessing, and statistical methods, with a soli
 
 
 ## Asset Management 
-Experienced in technical and fundamental analysis, portfolio construction, management, and risk analysis. Skilled in quantitative and trend analysis (linear regression), start-up valuation, and equity and fixed income analysis. Familiar with alternative investments, option pricing, and strategies. Involved in investment strategy development, financial modeling, forecasting, economic and market analysis, asset allocation, diversification, as well as ensuring regulatory compliance and reporting.
+Experience in technical and fundamental analysis, portfolio construction, and risk management. My expertise includes quantitative and trend analysis, start-up valuation, and in-depth equity and fixed-income analysis. I possess a strong understanding of alternative investments, option spread and pricing, and strategic financial planning. Involved in developing long and short term investment strategies, financial modelling, and forecasting, I excel in economic and market analysis, asset allocation, managing risk effectively and diversification. Additionally, I familiar with regulatory compliance and reporting practices.
 
 ##  Software and Expertise
 - **Programming Languages**: Python, JavaScript, C++ and R Programming 
