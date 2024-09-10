@@ -32,9 +32,10 @@ Experience in technical and fundamental analysis, portfolio construction, and ri
 - **Microsoft Suite**: MS Word, MS Excel, MS Visio, MS PowerPoint, and Google Analytics 
 - **Collaborative Tools**: Google Sheets, Google Doc, Google Drive, Dropbox, Discord, Zoom, MS Team, Monday.com and OneDrive. 
 - **Graphic Design**: Adobe Photoshop
-- 
-<br />
+  
 ![Harry's World](https://github.com/harryworlds/harryworlds/blob/main/park.jpg)
+
+<br />
 <p align="center">
   <a href="https://www.youtube.com/@AnalyticalHarry"><img src="https://img.shields.io/website?label=YouTube&style=for-the-badge&url=https://www.youtube.com/@AnalyticalHarry" alt="YouTube" height="20"></a>
   <a href="https://www.linkedin.com/in/analyticalharry/"><img src="https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https://www.linkedin.com/in/analyticalharry/" alt="LinkedIn" height="20"></a>
