@@ -34,9 +34,6 @@ Experience in technical and fundamental analysis, portfolio construction, and ri
 - **Graphic Design**: Adobe Photoshop
 - 
 <br />
-
-<img width="100" align='left' src="https://i.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.webp">
-
 ![Harry's World](https://github.com/harryworlds/harryworlds/blob/main/park.jpg)
 <p align="center">
   <a href="https://www.youtube.com/@AnalyticalHarry"><img src="https://img.shields.io/website?label=YouTube&style=for-the-badge&url=https://www.youtube.com/@AnalyticalHarry" alt="YouTube" height="20"></a>
