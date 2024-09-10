@@ -3,7 +3,6 @@ I can analyse big data, construct predictive models, and translate data into mea
 drive business strategy.
   
 ![Harry's World](https://raw.githubusercontent.com/AnalyticalHarry/AnalyticalHarry/main/img/glasgow.jpg)
-![Harry's World](https://github.com/harryworlds/harryworlds/blob/main/park.jpg)
 Based in Glasgow, I am driven by a passion for developing innovative solutions to engineering challenges. I thrive on exploring new ideas, thinking creatively, and actively contributing to open-source projects. With a continuous pursuit of growth and learning, my long-term goal is to make a meaningful impact on both society and the environment.
 <br />
 ##### #Blairdrummond 2019
@@ -45,5 +44,5 @@ Experience in technical and fundamental analysis, portfolio construction, and ri
   <a href="https://www.tiktok.com/@analyticalharry"><img src="https://img.shields.io/badge/@AnalyticalHarry-%23FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="20"></a>
   <a href="https://twitter.com/AnalyticalHarry"><img src="https://img.shields.io/twitter/follow/AnalyticalHarry?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow" height="20"></a>
 </p>
-
+![Harry's World](https://github.com/harryworlds/harryworlds/blob/main/park.jpg)
 🤝 Collaboration Requests: analyticalharry@gmail.com
