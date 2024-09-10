@@ -37,12 +37,11 @@ Experience in technical and fundamental analysis, portfolio construction, and ri
 
 <img width="100" align='left' src="https://i.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.webp">
 
-
+![Harry's World](https://github.com/harryworlds/harryworlds/blob/main/park.jpg)
 <p align="center">
   <a href="https://www.youtube.com/@AnalyticalHarry"><img src="https://img.shields.io/website?label=YouTube&style=for-the-badge&url=https://www.youtube.com/@AnalyticalHarry" alt="YouTube" height="20"></a>
   <a href="https://www.linkedin.com/in/analyticalharry/"><img src="https://img.shields.io/website?label=LinkedIn&style=for-the-badge&url=https://www.linkedin.com/in/analyticalharry/" alt="LinkedIn" height="20"></a>
   <a href="https://www.tiktok.com/@analyticalharry"><img src="https://img.shields.io/badge/@AnalyticalHarry-%23FF0000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" height="20"></a>
   <a href="https://twitter.com/AnalyticalHarry"><img src="https://img.shields.io/twitter/follow/AnalyticalHarry?color=1DA1F2&logo=twitter&style=for-the-badge" alt="Twitter Follow" height="20"></a>
 </p>
-![Harry's World](https://github.com/harryworlds/harryworlds/blob/main/park.jpg)
 🤝 Collaboration Requests: analyticalharry@gmail.com
