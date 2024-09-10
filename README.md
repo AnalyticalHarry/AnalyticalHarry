@@ -6,10 +6,9 @@ drive business strategy.
 ---
 
 <img width="250" align='left' src="https://github.com/harryworlds/harryworlds/blob/main/park.jpg">
-  
-<img width="200" align='right' src="https://github.com/harryworlds/harryworlds/blob/main/glasgow.png">
 Based in Glasgow, I am driven by a passion for developing innovative solutions to engineering challenges. I thrive on exploring new ideas, thinking creatively, and actively contributing to open-source projects. With a continuous pursuit of growth and learning, my long-term goal is to make a meaningful impact on both society and the environment.
 <br />
+<img width="200" align='right' src="https://github.com/harryworlds/harryworlds/blob/main/glasgow.png">
 
 ##### #Blairdrummond 2019
 ⚙️ Founded Machine Learning Library Nalyst on 2022
