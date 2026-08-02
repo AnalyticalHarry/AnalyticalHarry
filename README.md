@@ -18,9 +18,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://github.com/analyticswithharry/analyticswithharry/blob/main/background_cover.jpg" alt="Cover Image" width="100%" />
-</p>
 
 ### About Me
 
