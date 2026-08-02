@@ -19,9 +19,7 @@
 <br/>
 
 
-### About Me
-
-Results-driven **AI/ML Full Stack Engineer** with **5+ years** of experience designing and deploying scalable machine learning systems, LLM-powered applications, and production-grade full-stack solutions.
+**AI/ML Full Stack Engineer** with **5+ years** of experience designing and deploying scalable machine learning systems, LLM-powered applications, and production-grade full-stack solutions.
 
 Expertise spans **LLM architectures**, **RAG pipelines**, **MLOps workflows**, and end-to-end AI system development — bridging research, engineering, and business impact.
 
